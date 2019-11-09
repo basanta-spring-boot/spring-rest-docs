@@ -1,0 +1,11 @@
+= Java Techie Spring REST Docs Example
+
+This is an example output for a service running at http://localhost:9091:
+
+.request
+include::{snippets}/asciidoc/books/http-request.adoc[]
+
+.response
+include::{snippets}/asciidoc/books/http-response.adoc[]
+
+The data which we can see as part of documentation will loaded from MockMvc Test case data
